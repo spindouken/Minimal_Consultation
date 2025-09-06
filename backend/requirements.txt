@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-multipart
+openai
+anthropic
+google-generativeai
+deepgram-sdk
+groq
